@@ -1,9 +1,9 @@
 *&---------------------------------------------------------------------*
-*& Report ZJPP_FORMATION2
+*& Report ZODE_FORMATION2
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT ZJPP_FORMATION2.
+REPORT ZODE_FORMATION2.
 
 *------------Révision de toutes les notions abordées------------
 *1/ L'Utilisateur final souhaite disposer d'un report lui permettant
