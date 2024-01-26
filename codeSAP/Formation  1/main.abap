@@ -1,10 +1,10 @@
 *&---------------------------------------------------------------------*
-*& Report ZJPP_FORMATION
+*& Report ZODE_FORMATION
 *&---------------------------------------------------------------------*
 *&Date Création / Auteur / Motif
-*&21/02/2023 / JPP / Création premier programme
+*&21/02/2023 / ODE / Création premier programme
 *&---------------------------------------------------------------------*
-REPORT ZJPP_FORMATION.
+REPORT ZODE_FORMATION.
 
 *DATA : LV_NAME  TYPE ZDRIVER_CAR_KDE-NAME,
 *       LV_NAME2 TYPE CHAR25,
